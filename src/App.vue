@@ -1,5 +1,5 @@
 <script lang="ts">
-  // empty
+// empty
 </script>
 
 <template>
@@ -7,5 +7,5 @@
 </template>
 
 <style lang="scss" module>
-  // empty
+// empty
 </style>
